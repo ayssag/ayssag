@@ -1,11 +1,34 @@
+###
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ec916ed8-f8ed-4e29-a94e-fe3544b6db42" />
+  <img width=350 src="https://static1.textcraft.net/data1/b/a/baee078c3a05ef0207c15aae67a3854bf7b78002b9f1d1891e4191ff1845afc85edd3cf1f379e6bb8d7a716654d111bfc2fee0ac465c420b39831753fbb2e21001e267a7cde1b4ddf1ff97e0.png" />
 </div>
 
-# Sobre mim
-Realizo estudos em aprendizado de máquina para visão computacional, detecção de objetos, e desenvolvo de sistemas de software junto à equipe de futebol de robôs UnBall na Universidade de Brasília. Estudo também Language Large Models e Processamento de Linguagem Natural para treinamento e ajuste fino em chatbots especializados.
+###
 
-Tenho experiência nas linguagens de programação Python, JavaScript e C/C++. Além de conhecimento e prática em frameworks como Angular, GraphQL, Flask e Cypress.
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayssag" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ayssanaara@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/AyssaG" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="telegram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5561981031234" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+### 🌎 About me
+I'm an undergraduate Computer Science student at Universidade de Brasília and software developer. My work spans diverse fields, from object detection for soccer robotics to training specialized chatbots. My technical skills include proficiency in: Python, JavaScript, and C/C++ programming languages; as well in Angular, NodeJS, e Flask.
+
+### <img width=25 src="https://github.com/user-attachments/assets/7d5e5a0a-7472-421c-a60c-1f0fd7fdad7d" /> Sobre mim  
+Sou estudante de Ciência da Computação na Universidade de Brasília e desenvolvedora de software. Meu trabalho abrange diversos campos, desde a detecção de objetos para futebol de robôs até o treinamento de chatbots especializados. Minhas habilidades técnicas incluem proficiência em: Python, JavaScript e linguagens de programação C/C++; bem como em Angular, NodeJS, e Flask.
+
 ###
 
 <div align="center">
@@ -37,25 +60,12 @@ Tenho experiência nas linguagens de programação Python, JavaScript e C/C++. A
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayssag" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:ayssanaara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/AyssaG" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="telegram logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5561981031234" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayssag/ayssag/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
