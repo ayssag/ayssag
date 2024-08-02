@@ -1,7 +1,11 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://github.com/user-attachments/assets/ec916ed8-f8ed-4e29-a94e-fe3544b6db42" />
 </div>
 
+# Sobre mim
+Realizo estudos em aprendizado de máquina para visão computacional, detecção de objetos, e desenvolvo de sistemas de software junto à equipe de futebol de robôs UnBall na Universidade de Brasília. Estudo também Language Large Models e Processamento de Linguagem Natural para treinamento e ajuste fino em chatbots especializados.
+
+Tenho experiência nas linguagens de programação Python, JavaScript e C/C++. Além de conhecimento e prática em frameworks como Angular, GraphQL, Flask e Cypress.
 ###
 
 <div align="center">
