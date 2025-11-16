@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width=350 src="https://tenor.com/view/oacmn-gif-12856129495165093976" />
+  <img width=350 src="https://media.tenor.com/smolqUG8yFgAAAAi/oacmn.gif" />
 </div>
 
 ###
