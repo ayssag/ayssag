@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width=350 src="https://static1.textcraft.net/data1/b/a/baee078c3a05ef0207c15aae67a3854bf7b78002b9f1d1891e4191ff1845afc85edd3cf1f379e6bb8d7a716654d111bfc2fee0ac465c420b39831753fbb2e21001e267a7cde1b4ddf1ff97e0.png" />
+  <img width=350 src="https://media.tenor.com/lbObw07b8FIAAAAM/pacman-pac.gif" />
 </div>
 
 ###
