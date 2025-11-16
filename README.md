@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width=350 src="https://media.tenor.com/lbObw07b8FIAAAAM/pacman-pac.gif" />
+  <img width=350 src="[https://media.tenor.com/lbObw07b8FIAAAAM/pacman-pac.gif](https://tenor.com/view/oacmn-gif-12856129495165093976)" />
 </div>
 
 ###
